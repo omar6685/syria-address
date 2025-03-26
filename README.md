@@ -4,6 +4,13 @@ This repository contains a comprehensive dataset of Syrian addresses structured 
 The dataset is provided as Ruby on Rails seeds for easy integration into Rails projects. 
 It is designed to serve as a quick and reliable reference for developers working with address data for Syria.
 
+
+  - 1 countries
+  - 14 provinces
+  - 62 districts
+  - 270 subdistricts
+  - 7950 neighborhoods
+
 # Contributions
 We encourage contributions to expand this repository. You can help by:
 
@@ -20,3 +27,5 @@ Keep the data updated as new information becomes available.
 
 # Contact
 If you have suggestions, corrections, or additional data, feel free to open an issue or submit a pull request.
+
+
